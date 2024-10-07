@@ -1,6 +1,6 @@
 import SkillCard from "./SkillCard";
 
-const SkillSection = ({ max, min, skill }) => {
+const SkillSection = () => {
     return (<>
         <div 
         data-aos="fade-right"

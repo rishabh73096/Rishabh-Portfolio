@@ -24,8 +24,6 @@ const ProjectSection = () => {
                 <ProjectCard title="Threads Of Artisans" github="https://github.com/rishabh73096/threads-of-Artisans-frontend" liveurl="https://threads-of-artisans-frontend.vercel.app/" img ="./Threads-of-Artisans.jpg" desc="A MERN stack eCommerce platform connecting artisans to global customers."/>
                 <ProjectCard title="Tastytails" github="https://github.com/rishabh73096/TastyTrail" liveUrl="https://tasty-trails-eight.vercel.app/" img ="/Tastytails.png" desc="React-based food delivery app using Tailwind CSS and Redux for dynamic cart management."/>
                 <ProjectCard title="Portfolio" github="https://github.com/rishabh73096/Rishabh-Portfolio" liveUrl="https://rishabh-portfolio-eight.vercel.app/" img ="/portfolio.jpg" desc="Portfolio showcasing my frontend development skills using React and Tailwind CSS."/>
-                <ProjectCard title="" github="" liveUrl="" img ="" desc=""/>
-                <ProjectCard title="" github="" liveUrl="" img ="" desc=""/>
             </div>
             <div className="flex justify-center items-center gap-2 select-none text-white">
                 <FaArrowLeft onClick={LeftScroll} className="text-xl lg:text-2xl text-yellow-500 hidden lg:block cursor-pointer" />

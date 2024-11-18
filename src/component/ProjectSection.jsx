@@ -21,8 +21,13 @@ const ProjectSection = () => {
         className="mb-20 lg:mb-36">
             <h1 className="text-5xl lg:text-7xl mb-10 gradiant-text">Project section </h1>
             <div ref={scrollRef} className="flex overflow-x-scroll gap-5 scroll-hide">
+              
                 <ProjectCard title="Threads Of Artisans" github="https://github.com/rishabh73096/threads-of-Artisans-frontend" liveurl="https://threads-of-artisans-frontend.vercel.app/" img ="./Threads-of-Artisans.jpg" desc="A MERN stack eCommerce platform connecting artisans to global customers."/>
+
                 <ProjectCard title="Tastytails" github="https://github.com/rishabh73096/TastyTrail" liveUrl="https://tasty-trails-eight.vercel.app/" img ="/Tastytails.png" desc="React-based food delivery app using Tailwind CSS and Redux for dynamic cart management."/>
+               
+                <ProjectCard title="Prescripto" github="https://github.com/rishabh73096/Prescripto-Doctor-Booking-Appointment-System" liveUrl="https://prescripto-doctor-booking-appointment-system.vercel.app/" img ="/docter.png" desc="A seamless doctor booking System with a context-driven API for efficient scheduling."/>
+
                 <ProjectCard title="Portfolio" github="https://github.com/rishabh73096/Rishabh-Portfolio" liveUrl="https://rishabh-portfolio-eight.vercel.app/" img ="/portfolio.jpg" desc="Portfolio showcasing my frontend development skills using React and Tailwind CSS."/>
             </div>
             <div className="flex justify-center items-center gap-2 select-none text-white">

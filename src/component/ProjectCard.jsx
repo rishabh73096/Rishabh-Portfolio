@@ -1,7 +1,7 @@
 import { FaGithub } from "react-icons/fa";
 import { RiSignalTowerFill } from "react-icons/ri";
 
-const ProjectCard = ({title,img,github,liveurl,desc}) => {
+const ProjectCard = ({title,img,github,liveUrl,desc}) => {
     return (<>
 
         <div className="p-1 m-2">
@@ -16,7 +16,7 @@ const ProjectCard = ({title,img,github,liveurl,desc}) => {
                         <a href={github}>
                             <FaGithub className="text-pink-500 font-bold inline-flex items-center text-lg md:text-xl lg:mb-0 mb-1 hover:text-purple-600 cursor-pointer"/>
                         </a>
-                        <a href={liveurl}>
+                        <a href={liveUrl}>
                             <RiSignalTowerFill className="text-pink-500 font-bold inline-flex items-center text-lg md:text-xl lg:mb-0 mb-1 hover:text-purple-600 cursor-pointer"/>
                         </a>
                     </div>

@@ -16,7 +16,7 @@ const HomeCard = () => {
                 <p className="text-xl lg:text-[19px] text-gray-300">
                     Dedicated to staying updated with industry trends, I aim for excellence in every project, whether working independently or collaboratively, delivering exceptional digital solutions.
                 </p>
-                <a href="https://drive.google.com/file/d/1exsneUzPwNLYV7zPOXxKMttb1EobZg1E/view?usp=sharing" className="font-mono text-center font-semibold text-lg lg:text-2xl cursor-pointer mb-3 lg:mb-0 hover:border-2 p-2 hover:border-gray-200 hover:backdrop-blur-lg rounded-xl gradiant-text">See My Resume</a>
+                <a href="https://drive.google.com/file/d/156HcfxrcbfZmeLz9LA8rE1iqOE4wKzuz/view?usp=sharing" className="font-mono text-center font-semibold text-lg lg:text-2xl cursor-pointer mb-3 lg:mb-0 hover:border-2 p-2 hover:border-gray-200 hover:backdrop-blur-lg rounded-xl gradiant-text">See My Resume</a>
             </div>
             <div data-aos="fade-up-left">
 

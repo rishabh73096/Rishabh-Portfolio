@@ -36,14 +36,14 @@ const ProjectSection = () => {
             desc: "A seamless doctor booking System with a context-driven API for efficient scheduling.",
         },
         {
-            title: "Portfolio",
+            title: "Clipwise-Design",
             github: "https://github.com/rishabh73096/Clipwise-Task",
             liveUrl: "https://clipwise-task.vercel.app",
             img: "/clipwise.png",
             desc: "A sleek, responsive homepage UI built with React and styled using Tailwind CSS.",
         },
         {
-            title: "Clipwise-Design",
+            title: " Portfolio",
             github: "https://github.com/rishabh73096/Rishabh-Portfolio",
             liveUrl: "https://rishabh-portfolio-fawn.vercel.app",
             img: "/portfolio.jpg",

@@ -6,12 +6,9 @@ const HomeCard = () => {
           data-aos="fade-up-right"
           className="flex flex-col gap-5 lg:w-[50%] text-white"
         >
-          <h1 className="text-5xl lg:7xl gradiant-text mb-5 lg:mb-10">
-            {" "}
-            Hey !{" "}
-          </h1>
+
           <p className="text-xl lg:text-[19px] text-gray-300">
-            Hi, I'm Rishabh Tiwari — a Full Stack Developer with 2 years of
+            I'm Rishabh Tiwari — a Full Stack Developer with 2 years of
             combined freelance and professional experience. I specialize in
             building end-to-end web applications using the MERN stack, and I
             actively contribute to both frontend and backend architecture.

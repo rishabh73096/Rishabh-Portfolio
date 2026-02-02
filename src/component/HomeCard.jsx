@@ -24,7 +24,7 @@ const HomeCard = () => {
             and I am always open to new challenges and collaborations.
           </p>
           <a
-            href="https://drive.google.com/file/d/1LN55QJpFfm4gWsyWe4vl3YvZWJWcJw2E/view?usp=sharing"
+            href="https://drive.google.com/file/d/1v3VoNFJaQhpul7YCTbF4O5oEEfksvnxS/view?usp=sharing"
             className="font-mono text-center font-semibold text-lg lg:text-2xl cursor-pointer mb-3 lg:mb-0 hover:border-2 p-2 hover:border-gray-200 hover:backdrop-blur-lg rounded-xl gradiant-text"
           >
             See My Resume

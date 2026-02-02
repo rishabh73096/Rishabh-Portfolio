@@ -14,12 +14,13 @@ const ProjectSection = () => {
 
   const projects = [
     {
-      title: "Ecommerce Store",
-      github: "https://github.com/jasznco/jasznco-web",
-      liveUrl: "https://main.d29ub4hxfp2gu3.amplifyapp.com/",
-      img: "/image2.png",
+      title: "Forma Construction ",
+      github: "https://github.com/TwoDigitInnovations/forma-web",
+      liveUrl: "https://forma-web-seven.vercel.app/",
+      img: "/forma.png",
       desc: "A responsive ecommerce site for browsing, filtering, and securely buying products",
     },
+
     {
       title: "My Lodge",
       github: "",
@@ -31,14 +32,21 @@ const ProjectSection = () => {
       title: "GroceryPickup Store",
       github: "https://github.com/TwoDigitInnovations/grocerypickup-web",
       liveUrl: "https://www.bachhoahouston.com/",
-       img: "/image1.png",
+      img: "/image1.png",
       desc: "A grocery web app for browsing items, adding to cart, and scheduling in-store pickups.",
+    },
+    {
+      title: "Ecommerce Store",
+      github: "https://github.com/jasznco/jasznco-web",
+      liveUrl: "https://main.d29ub4hxfp2gu3.amplifyapp.com/",
+      img: "/image2.png",
+      desc: "A responsive ecommerce site for browsing, filtering, and securely buying products",
     },
     {
       title: "Hariir (Job Portal)",
       github: "https://github.com/TwoDigitInnovations/hariir-web",
       liveUrl: "https://hariir-web.vercel.app/",
-       img: "/image4.png",
+      img: "/image4.png",
       desc: "A social app for connecting professionals, Company, and managing personal portfolios.",
     },
 

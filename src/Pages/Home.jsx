@@ -15,7 +15,7 @@ const Home = () => {
         },[]);
     })
     return (<>
-        <div className="w-[84vw] mx-auto">
+        <div className="max-w-7xl mx-auto">
             <PortfolioCart />
             <HomeCard />
             <About />
